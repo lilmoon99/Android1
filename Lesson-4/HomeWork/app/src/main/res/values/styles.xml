@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CalculatorTheme" parent="Theme.MaterialComponents.DayNight">
+        <item name="android:textSize">@dimen/textSize</item>
+        <item name="colorPrimary">#000099</item>
+        <item name="android:fontFamily">cursive</item>
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <dimen name="textSize">20sp</dimen>
+    <style name="CalculatorThemeDark" parent="Theme.MaterialComponents.DayNight">
+        <item name="android:textSize">@dimen/textSize</item>
+        <item name="colorPrimary">#000033</item>
+        <item name="android:fontFamily">cursive</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:textColorPrimary">@color/white</item>
+    </style>
+</resources>

@@ -7,7 +7,7 @@ import android.view.View;
 import android.widget.TextView;
 
 
-import com.example.lesson_4_hw.R;
+import com.example.lesson_3_hw.R;
 import com.example.lesson_4_hw.model.CalculatorImpl;
 import com.example.lesson_4_hw.model.Operator;
 
