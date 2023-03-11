@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="MyTheme1" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">#AAB7B8</item>
+        <item name="colorPrimaryVariant">#ffff1f</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <item name="android:textSize">@dimen/default_text_size</item>
+    </style>
+    <style name="OperatorsTheme" parent="ThemeOverlay.Material3.TextInputEditText">
+        <item name="colorPrimary">#CA6F1E</item>
+    </style>
+    <style name="MyTheme2" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">#2E4053</item>
+        <item name="android:textSize">@dimen/default_text_size</item>
+    </style>
+    <style name="MyTheme3" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">#17202A</item>
+        <item name="android:textSize">@dimen/default_text_size</item>
+    </style>
+</resources>
